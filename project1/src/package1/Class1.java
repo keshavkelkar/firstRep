@@ -8,6 +8,7 @@ public class Class1 {
 		System.out.println("version 1.0");
 		
 		System.out.println("version 2.0");
-	}
+	
+	System.out.println("I added this extra line");
 
-}
+}}
